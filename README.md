@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wwy99
+- 👋 Hi, I’m Weiyu Wang
 - 👀 I’m interested in data science and ecommerce!
 - 🌱 I’m currently learning machine learning models to optimize my bussiness!
 - 📫 How to reach me: wwy@dmc99.co
